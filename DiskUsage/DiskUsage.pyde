@@ -1,0 +1,10 @@
+size(600,700)
+background('#004477')
+stroke('#FFFFFF')
+strokeWeight(3)
+noFill()
+
+fill('#FF0000')
+arc(300,350,250,250,0,PI,PIE)
+fill('#004477')
+ellipse(300,350,125,125)
